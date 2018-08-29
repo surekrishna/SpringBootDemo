@@ -1,4 +1,4 @@
-package com.spring.boot.microservices.SpringBootFirst;
+package com.spring.boot.microservices;
 
 import java.util.ArrayList;
 import java.util.List;

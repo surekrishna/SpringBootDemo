@@ -1,4 +1,4 @@
-package com.spring.boot.microservices.SpringBootFirst;
+package com.spring.boot.microservices;
 
 public class Book {
 	
